@@ -1,0 +1,7 @@
+E 2.1.
+Short-muuttuja on pienin kaikista, long long isoin. Int ja long ovat käytännössä samankokoisia. unsigned-tyyppi voi olla 0 tai sitä isompi, signed voi olla myös pienempi kuin 0.
+Float on epätarkempi kuin double.
+E 2.2. 
+rate = double
+principal = Float/double/Int
+payment = double;
