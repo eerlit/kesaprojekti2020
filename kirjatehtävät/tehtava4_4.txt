@@ -1,0 +1,19 @@
+exercise 4.13
+a) d= 3 i = 3
+b) d = 3.5 i = 3
+exercise 4.14
+if(42 = i)
+testataan onko sulkujen sisällä oleva arvo positiivinen. jos se on, ehto on true.
+
+if(i = 42)
+i:n arvoksi tulee 42, jolloin ehto on true
+
+exercise 4.15
+
+pi on osoitin, joten pitäisi käyttää *-merkkiä jos halutaan muuttaa pi:n osoittaman muuttujan arvoa.
+
+exercise 4.16
+
+a) if(p == getPtr() != 0)
+b)
+if(i == 1024)

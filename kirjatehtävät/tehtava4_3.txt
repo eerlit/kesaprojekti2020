@@ -1,0 +1,10 @@
+exercise 4.8
+and:ssa arvioidaan ensin ensimmäistä operanddia, jos se on true niin arvioidaan toista.
+or:ssa arvioidaan kumpaakin operanddia.
+
+exercise 4.9
+cp tarkoittaa että cp ei ole null-osoitin ja olio johon cp osoittaa ei ole null tai 0.
+
+exercise 4.12
+
+ensin määritellään j < k joko true tai false. tämän jälkeen määritellään i != true tai i != false.

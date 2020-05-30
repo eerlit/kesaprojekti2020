@@ -1,0 +1,9 @@
+exercise 2.9
+
+(a) int muuttujaa ei voi esitellä paikassa, jossa se on. cin olio kysyy käyttäjältä lukemaa, joka annettaisiin int muuttujan arvoksi.
+(b) alustusta ei olla tehty oikein, puolipisteen pitäisi olla sulkujen ulkopuolella.
+(c) wage -muuttujaa ei olla alustettu mitenkään, joten salary ei saa mitään arvoa.
+(d) i:n arvoksi tulee 3.
+
+exercise 2.10
+String muuttuja on tyhjä, int:n arvo voi olla käytännössä mitä vain.

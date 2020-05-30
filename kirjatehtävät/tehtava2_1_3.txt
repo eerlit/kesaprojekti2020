@@ -1,0 +1,39 @@
+exercise 2.5
+(a) char, wchar_t, string, wchar_t
+char sisältää yhden merkin. 
+wchar_t on "leveä" char, jota käytetään jos tarvitaan enemmän muistia kuin mitä char tarjoaa.
+String on jono const char-merkkejä.
+
+(b) int, unsigned, long, unsigned long, int, int
+int:n arvo on suoraan nähtävillä ja voi olla pienempi kuin 0.
+unsigned arvo ei voi olla pienempi kuin 0.
+long on käytännössä sama kuin int.
+unsigned long on long-muuttuja, joka ei voi olla pienempi kuin 0.
+
+(c)
+double, float, long
+float on epätarkempi kuin double, long double on näistä tarkin.
+
+(d)
+int, unsigned, float, float
+viimeisessä floatissa on eksponentti 2
+
+exercise 2.6.
+alemmat arvot kääntäjä ymmärtää heksadesimaaleina.
+
+
+exercise 2.7
+(a)
+who goes with fergus? (new line) "string"
+long double
+float
+long double
+
+exercise 2.8
+
+int main()
+{
+    std::cout << 2 << "\115\012";
+    std::cout << 2 << "\t\115\012";
+    return 0;
+}

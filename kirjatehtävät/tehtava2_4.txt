@@ -1,0 +1,9 @@
+exercise 2.25
+
+(a) ip on int-osoitin i:hin, i on int tyyppinen muuttuja, r on int tyyppinen referenssi i:hin.
+(b) i on int muuttuja, ip int tyyppinen osoitin, joka osoittaa nollaan.
+(c) ip on int osoitin, ip2 on int tyyppinen muuttuja.
+
+exercise 2.26
+
+(d) const arvoa ei voi muuttaa.

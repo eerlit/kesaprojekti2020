@@ -1,0 +1,2 @@
+exercise 3.26
+koska pitää määrittää uusi keskikohta vektorille, kun ensimmäisestä puoliskosta on haluttua lukua jo etsitty.

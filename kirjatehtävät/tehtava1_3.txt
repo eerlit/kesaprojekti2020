@@ -1,0 +1,6 @@
+exercise 1.8
+
+std::cout << "/*";
+std::cout << "*/";
+std::cout << /* "*/" */; //väärin
+std::cout << /*  "*/" /* "/*"  */; //väärin

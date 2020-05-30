@@ -1,0 +1,14 @@
+exercise 2.15
+
+(a) väärin, koska int muuttuja koetetaan alustaa desimaaliluvulla.
+(b) väärin, koska referenssi pitää osoittaa olioon.
+(d) väärin, koska referenssiä ei alusteta osoittamaan mihinkään.
+
+exercise 2.16
+(a) referenssi asettaa double muuttujan d arvoksi 3.14....
+(b) väärin, koska referenssi osoittaa toiseen referenssiin
+(c) i:n arvoksi tulee 0.
+(d) i:n arvoksi tulee 0.
+
+exercise 2.17
+ 10 10

@@ -1,0 +1,6 @@
+exercise 4.1
+105
+
+exercise 4.2
+a)(*vec.begin())
+b) ((*vec.begin())+ 1)

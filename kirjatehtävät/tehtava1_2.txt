@@ -1,0 +1,2 @@
+exercise 1.6
+koodi pala ei toimi, koska uusille riveillä pitäisi aina kutsua uudestaan cout-oliota.

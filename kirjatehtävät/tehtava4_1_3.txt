@@ -1,0 +1,2 @@
+exercise 4.3
+kunhan koodaaja on tietoinen aiheesta, potentiaaliset virhetilanteet voi korjata tietäen myös missä kohdassa koodia ne sijaitsevat jos niitä ilmenee.

@@ -1,0 +1,4 @@
+exercise 3.37
+lopussa ei ole null-merkkiä, joten ohjelma printtaa merkkejä muistista kunnes null-merkki tulee vastaan.
+exercise 3.38
+osoittimet osoittaisivat samaan kohtaan.

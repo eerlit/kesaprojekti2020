@@ -1,0 +1,27 @@
+exercise 2.36
+
+
+int a = 3, b = 4;
+decltype(a) c = a; //c = int
+decltype((b)) d = a; //d = int &
+++c;
+++d;
+
+exercise 2.37
+
+int a = 3, b = 4;
+decltype(a) c = a; c = int
+decltype(a = b) d = a; d = int &
+
+exercise 2.38
+ int i;
+ auto a = i; //int
+ decltype(i) a1; //int
+
+ int i, &a = i;
+ auto f = a; //int
+ decltype(a) q; // int&
+
+ const int i;
+ auto w = i; //int
+ decltype(i) i1 = 8; //const int

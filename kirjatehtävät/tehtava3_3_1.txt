@@ -1,0 +1,14 @@
+exercise 3.12
+(a) oikein. vektori joka sisältää int vektoreita
+(b) väärin. string muuttujia sisältävään vektoriin koitetaan kopioida int muuttujia sisältävä vektori.
+(c) oikein. string muuttujia sisältävä vektori, jossa on 10 kpl "null" tekstejä
+
+exercise 3.13
+
+(a) 0
+(b) 10kpl, (0
+(c) 10kpl, (42
+(d) 1kpl, (10
+(e) 2kpl, (10, 42
+(f) 1kpl, (10
+(g) 2kpl, (10, "hi"

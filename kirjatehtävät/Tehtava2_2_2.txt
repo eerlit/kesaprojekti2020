@@ -1,0 +1,4 @@
+exercise 2.11.
+(a) Tässä pitäisi vain esitellä muuttuja ix, mutta tässä yritetään sitä myös määritellä, mitä ei voi tehdä.
+(b) muuttuja iy määritellään.
+(c) muuttujan iz esittely.

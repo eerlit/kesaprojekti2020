@@ -1,0 +1,16 @@
+exercise 3.27
+a) väärin, koska arrayn kokoa määrittelevä muuttuja ei ole const
+
+c)
+d) väärin, koska arrayssä pitäisi olla tilaa myös null-merkille.
+
+exercise 3.28
+string[10] = 10 tyhjää string elementtiä
+int ia [10] = 10 int elementtiä, arvot 0
+string sa2[10] = 10 tyhjää string elementtiä
+int ia2[10] = 10 alustamatonta arvoa
+
+exercise 3.29
+
+arrayn koko on pakko tietää.
+

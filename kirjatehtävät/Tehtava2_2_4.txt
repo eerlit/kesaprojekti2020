@@ -1,0 +1,5 @@
+exercise 2.13
+j = 100;
+
+exercise 2.14
+100, 45

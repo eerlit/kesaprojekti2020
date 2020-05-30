@@ -1,0 +1,28 @@
+exercise 2.18
+int x = 1;
+int *xi = &x;
+*xi = 2;
+
+exercise 2.19
+
+osoitin on olio itsessään, referenssi ei ole.
+osoitin voi "elämänsä" aikana osoittaa moneen eri olioon, referenssi osoittaa vain yhteen olioon.
+
+exercise 2.20
+ohjelma kertoo i:n arvon itsellään. 42*42.
+
+exercise 2.21
+(a) väärin, eri muuttujatyyppi
+(b)väärin, koska ei voi laittaa osoitinta osoittamaan int-muuttujaan. täytyy osoittaa ko. muuttujan muistiosoitteeseen
+(c) oikein.
+
+exercise 2.22
+if(p) // p antaa osoittamansa muuttujan muistiosoitteen, joten tämä if-lause ei toimi.
+if(*p) //tässä p antaa osoittamansa muistiosoitteen arvon, joten tämä on toimiva.
+
+exercise 2.23
+yrittää vaikka tulostaa sen arvoa tai sen osoittamaa muistiosoitetta niin huomaa onko osoitin validi.
+
+exercise 2.24
+
+lp on eri tyyppinen muuttuja kuin i. void tyypin osoittimen voi laittaa osoittamaan mihin vain.

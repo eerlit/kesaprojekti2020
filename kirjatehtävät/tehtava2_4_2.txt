@@ -1,0 +1,26 @@
+exercise 2.27
+(a) väärin, referenssiä ei voi alustaa näin, koska int i ei ole const
+(f) const int muuttuja ei voi laittaa yhdessä const viittauksen kanssa.
+
+exercise 2.28
+
+(a) esitellään int muuttuja ja const osoitin. osoitinta ei alusteta.
+(b) esitellään int tyyppinen osoitinmuuttuja, ja int const osoitinmuuttuja. alustusta ei tehdä.
+(c) esitellään const int , jolle luodaan myös referenssi. const int-muuttujaa ei alusteta.
+(d) luodaan const int tyyppinen const osoitin p3. sitä ei alusteta.
+(e) luodaan const int osoitin eikä sitä alusteta.
+
+exercise 2.29
+
+(a) on oikein, koska siihen osoittaa referenssi const int muuttujaan ic.
+
+exercise 2.30
+const int v2 = 0 - top level
+int v1 = v2 - low level
+const int *p2 = &v2,(top level) *const p3 = &i(low level), &r2 = v2(top level);
+
+exercise 2.31
+
+r1 = v2; low level const refenssi r1 ei ole const, v2 top level
+p2 = p1; p2 top level const ja p1 low level, p2:sta ei voi muuttaa.
+p2 = p3; p2 ja p3 ovat low level const:ja

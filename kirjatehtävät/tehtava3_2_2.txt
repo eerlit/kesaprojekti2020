@@ -1,0 +1,4 @@
+exercise 3.3
+
+getline-funktiota käyttämällä voidaan lukea virrasta merkkejä uuteen lauseeseen asti.
+input operaattori lukee merkkejä ensimmäiseen tyhjään kohtaan asti.

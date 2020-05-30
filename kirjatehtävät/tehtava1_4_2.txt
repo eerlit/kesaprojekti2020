@@ -1,0 +1,4 @@
+exercise 1.14
+
+for loopissa voi määritellä sen suorituksen aikaisia muuttujia ja käyttää niitä.
+while on kätevä jos looppausaikaa ei tiedetä ennen looppia.
